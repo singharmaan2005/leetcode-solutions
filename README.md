@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/singharmaan2005/Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singharmaan2005/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/singharmaan2005/Leetcode-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/singharmaan2005/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/singharmaan2005/Leetcode-/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/singharmaan2005/Leetcode-/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/singharmaan2005/Leetcode-/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/singharmaan2005/Leetcode-/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/singharmaan2005/Leetcode-/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
