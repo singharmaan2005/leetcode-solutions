@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/singharmaan2005/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/singharmaan2005/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/singharmaan2005/Leetcode-/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/singharmaan2005/Leetcode-/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/singharmaan2005/Leetcode-/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singharmaan2005/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/singharmaan2005/Leetcode-/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
