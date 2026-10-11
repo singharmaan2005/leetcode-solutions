@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singharmaan2005/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/singharmaan2005/Leetcode-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharmaan2005/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/singharmaan2005/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/singharmaan2005/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
