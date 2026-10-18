@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/singharmaan2005/Leetcode-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/singharmaan2005/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/singharmaan2005/Leetcode-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singharmaan2005/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/singharmaan2005/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/singharmaan2005/Leetcode-/tree/master/0844-backspace-string-compare) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/singharmaan2005/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
