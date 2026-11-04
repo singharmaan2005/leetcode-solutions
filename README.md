@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/singharmaan2005/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/singharmaan2005/Leetcode-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharmaan2005/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/singharmaan2005/Leetcode-/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/singharmaan2005/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/singharmaan2005/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
